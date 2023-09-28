@@ -1,2 +1,2 @@
 #!/bin/bash
-My shell Basics\n
+My shell basics\n
